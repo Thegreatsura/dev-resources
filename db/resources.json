@@ -1,5 +1,5 @@
 {
-"count": 1157,
+"count": 1158,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1763,6 +1763,27 @@
             "AI"
         ],
         "url": "https://catalog.thesys.dev/"
+    },
+    {
+        "name": "CatchDoms",
+        "description": "Expired and auction domain finder aggregating 100k+ domains from 17 marketplaces, enriched with SEO metrics (Trust Flow, backlinks, age, historical tech stack). Ships a public REST API and an open-source MCP server so AI assistants like Claude can query the catalog in natural language.",
+        "categories": [
+            "Domain",
+            "SEO",
+            "AI"
+        ],
+        "url": "https://catchdoms.com",
+        "keywords": [
+            "expired-domains",
+            "domain-finder",
+            "seo",
+            "backlinks",
+            "trust-flow",
+            "mcp",
+            "api",
+            "wayback",
+            "domainer"
+        ]
     },
     {
         "name": "Cert Decoder",
